@@ -66,6 +66,10 @@ input, select {
    color: #fff;
 }
 
+.section-right select option {
+   color: black;
+}
+
 #date, .section-left ::placeholder {
    color: rgb(128, 127, 131);
 }
